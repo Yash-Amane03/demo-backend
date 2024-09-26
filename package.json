@@ -1,0 +1,19 @@
+{
+  "name": "new-bigin",
+  "version": "1.0.0",
+  "description": "learn backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "yash"
+  ],
+  "author": "yash amane",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
